@@ -179,13 +179,15 @@ This project is designed to scale with future enhancements:
 
 ## 📸 Screenshots
 
-(Add your dashboard screenshots here)
 
----
+![Login](image.png)
+![Dashboard](image-1.png)
+![admin dashboard](image-2.png)
+
 
 ## 👨‍💻 Author
 
-**Ayush Bhardwaj**
+**Ayush**
 
 ---
 
